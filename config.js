@@ -6,27 +6,27 @@ const readMore = more.repeat(4001)
 
 // Owner
 global.owner = [
-['628xxx', 'Xyroinee', true]
+['6285156402391', 'Denny', true]
 ]
 global.mods = []
 global.prems = []
 // Info
-global.nomorwa = '628xxx'
-global.packname = 'anu - MD by'
-global.author = '© Xyroinee'
-global.namebot = '​anu - MD'
-global.wm = '© anu By Xyroine'
-global.stickpack = 'anu - MD by'
-global.stickauth = '© Xyroine'
-global.fotonya = 'https://telegra.ph/file/83b522fd80b660705d1cd.jpg'
+global.nomorwa = '6285156402391'
+global.packname = '2malam'
+global.author = '© Denny'
+global.namebot = '2malam by Denny'
+global.wm = '© 2malam'
+global.stickpack = '2malam'
+global.stickauth = '2malam'
+global.fotonya = 'https://telegra.ph/file/0e8e264ea5a23f0d20415.jpg'
 // Link Sosmed
-global.sig = 'https://www.instagram.com/xyroinee'
-global.sgh = 'https://github.com/Xyroinee'
+global.sig = 'https://www.instagram.com'
+global.sgh = 'https://github.com'
 global.sgc = 'https://chat.whatsapp.com/'
 // Donasi
-global.psaweria = 'https://saweria.co/Zeltoria'
-global.ptrakterr = 'https://trakteer.id/zeltoria'
-global.povo = '0896-1075-0607'
+global.psaweria = ''
+global.ptrakterr = ''
+global.povo = ''
 // Info Wait
 global.wait = 'Sedang Di Proses, Mohon Tunggu....'
 global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
@@ -34,7 +34,7 @@ global.multiplier = 69
 // Apikey
 global.lol = 'apikeymu'
 global.rose = 'apikeymu'
-global.xyro = 'apikeymu'
+global.xyro = 'eIYEZjlJly'
 // Catatan : Jika Mau Work Fiturnya
 // Masukan Apikeymu
 // Gapunya Apikey? Ya Daftar
@@ -48,7 +48,7 @@ global.APIs = {
 
 /Apikey/
 global.APIKeys = {
-    "https://api.xyroinee.xyz": "apikeymu",
+    "https://api.xyroinee.xyz": "eIYEZjlJly",
 }
 
 let file = fileURLToPath(import.meta.url)
